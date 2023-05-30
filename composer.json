@@ -1,5 +1,5 @@
 {
-    "name": "sachinkumar121/random-subdomain",
+    "name": "instawp/random-subdomain",
     "type": "library",
     "description": "Generate random subdomain and accept nouns and adjectives.",
     "license": "MIT",
@@ -13,8 +13,7 @@
     },
     "authors": [
         {
-            "name": "Sachin Kumar",
-            "email": "skarora7894@gmail.com"
+            "name": "Instawp"
         }
     ]
 }
