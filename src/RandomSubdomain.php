@@ -132,8 +132,8 @@ class RandomSubdomain {
         $adjectiveLines = $this->getAdjectives('array');
 
         $name = sprintf("%s-%s-%s",
-            strtolower($nounsLines[$this->getRandomInt(0, count($nounsLines))]),
             strtolower($adjectiveLines[$this->getRandomInt(0, count($adjectiveLines))]),
+            strtolower($nounsLines[$this->getRandomInt(0, count($nounsLines))]),
             bin2hex(random_bytes(3))
         );
         return $name;
