@@ -191,6 +191,7 @@ credible
 crisp
 crisper
 curious
+cushioned
 cushy
 cute
 daring
@@ -203,7 +204,6 @@ decent
 decisive
 decorated
 dedicated
-defeated
 deft
 delectable
 delicate
@@ -284,7 +284,6 @@ entrancing
 entrepreneurial
 enviable
 equitable
-erotic
 erudite
 ethical
 euphoric
@@ -332,7 +331,6 @@ fearless
 feasible
 feisty
 felicitous
-fertile
 fervent
 fervid
 festive
@@ -341,7 +339,6 @@ fine
 finest
 firmer
 flamboyant
-flashy
 flatter
 flattering
 flawless
@@ -352,7 +349,6 @@ focused
 fond
 foolproof
 foremost
-formidable
 fortuitous
 fortunate
 fragrant
@@ -374,7 +370,6 @@ galore
 generous
 genial
 genius
-gentile
 gentle
 gentlest
 genuine
@@ -413,7 +408,6 @@ hallowed
 handier
 handsome
 handy
-haphazard
 happier
 happy
 hard
@@ -473,7 +467,6 @@ individualized
 indulgent
 industrious
 inestimable
-inexpensive
 infallible
 influential
 ingenious
@@ -494,7 +487,6 @@ intelligent
 intelligible
 intense
 interesting
-intimate
 intricate
 intriguing
 introverted
@@ -599,7 +591,6 @@ nimble
 noble
 noiseless
 nonchalant
-nonconformist
 notable
 notary
 noteworthy
@@ -621,7 +612,6 @@ otic
 outlandish
 outstanding
 overjoyed
-painless
 palatial
 pampered
 panoramic
@@ -630,7 +620,6 @@ partial
 particular
 passionate
 patient
-patri
 peaceable
 peaceful
 peerless
@@ -643,7 +632,6 @@ persevering
 persistent
 personalized
 persuasive
-petite
 phenomenal
 picturesque
 pious
@@ -785,8 +773,6 @@ sensational
 sensible
 sensitive
 serene
-sexy
-shameless
 sharp
 sharper
 sharpest
@@ -889,15 +875,14 @@ swank
 swankier
 swankiest
 swanky
-sweeping
 sweet
-sweetheart
 swift
 sympathetic
 systematic
 tactful
 talented
 tantalizing
+techie
 tempting
 tenacious
 tender
@@ -912,7 +897,6 @@ thrilling
 thriving
 tidy
 timely
-titillating
 tolerable
 tolerant
 top
@@ -935,7 +919,6 @@ trusty
 truthful
 twinkly
 twisted
-unabashed
 unaffected
 unassailable
 unassuming
