@@ -23,7 +23,6 @@ beetle
 bird
 bison
 boar
-booby
 buffalo
 bug
 butterfly
